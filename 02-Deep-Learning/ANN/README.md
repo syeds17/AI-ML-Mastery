@@ -90,8 +90,8 @@ Output Layer (Linear)
 |-----------|-------|
 | Optimizer | Adam |
 | Loss Function | Mean Squared Error (MSE) |
-| Epochs | *(Your Value)* |
-| Batch Size | *(Your Value)* |
+| Epochs | *20* |
+| Batch Size | *25* |
 
 ---
 
