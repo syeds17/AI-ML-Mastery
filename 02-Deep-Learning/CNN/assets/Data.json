@@ -1,0 +1,9 @@
+{
+    "dataset_dir": "Data/mnist_images",
+    "dataset_csv_file": "Data/mnist_images/0labels.csv",
+    "train_dir": "Data/mnist_images/x_train",
+    "train_csv_file": "Data/mnist_images/x_train/0labels.csv",
+    "test_dir": "Data/mnist_images/x_test",
+    "test_csv_file": "Data/mnist_images/x_test/0labels.csv",
+    "model_path": "model/MNISTmodel.h5"
+}
