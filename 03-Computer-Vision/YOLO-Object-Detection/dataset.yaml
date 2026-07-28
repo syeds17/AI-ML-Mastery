@@ -1,0 +1,5 @@
+train : Data\test_Dataset\images\train
+test : Data\test_Dataset\images\test
+val : Data\test_Dataset\images\val
+nc : 2
+names : ['bald','no bald']
